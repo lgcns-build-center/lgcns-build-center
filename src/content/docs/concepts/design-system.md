@@ -1,4 +1,6 @@
 ---
-title: Design Component
-description: Design Component
+title: Design System
+description: Design System
+sidebar:
+  order: 4
 ---
