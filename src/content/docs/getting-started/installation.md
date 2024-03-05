@@ -5,7 +5,7 @@ sidebar:
   order: 2
 ---
 
-# Frontier 샘플 프로젝트 설치하기
+### Frontier 샘플 프로젝트 설치하기
 
 ### 사전 준비 사항
 
@@ -18,4 +18,5 @@ Frontier 샘플 프로젝트 실행을 위해서는 아래 항목들이 필수�
 <br>https://wire.lgcns.com/confluence/pages/viewpage.action?pageId=827419976#expand-5FrontierBoilerplate
 
 ### 샘플 source code 다운 받기
+
 https://wire.lgcns.com/bitbucket/projects/BCCL/repos/bccl-frontier-sample/browse
