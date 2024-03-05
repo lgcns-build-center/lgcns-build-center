@@ -20,10 +20,10 @@ Inside of your Astro + Starlight project, you'll see the following folders and f
 │   ├── assets/
 │   ├── content/
 │   │   ├── docs/
-│   │   │   ├── concepts/
 │   │   │   ├── en/
 │   │   │   ├── getting-started/
-│   │   │   ├── reference/
+│   │   │   ├── guides/
+│   │   │   ├── references/
 │   │   │   ├── tutorial/
 │   │   └── config.ts
 │   └── env.d.ts
@@ -34,7 +34,7 @@ Inside of your Astro + Starlight project, you'll see the following folders and f
 | Content         | Description           |
 |:----------------|:----------------------|
 | getting-started | 프론티어 설치 및 시작하기        |
-| concepts        | 핵심 개념 및 기술 요소         |
+| guides        | 핵심 개념 및 기술 요소         |
 | tutorial        | 프론티어 사용 tutorial (실습) |
 | references      | 참고 문헌 및 도움이 될만한 배경지식  |
 
