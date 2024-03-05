@@ -36,11 +36,11 @@ export default defineConfig({
 					// ],
 				},
 				{
-					label: '핵심 개념',
+					label: '가이드',
 					translations: {
-						en: 'Core Concepts',
+						en: 'Guides',
 					},
-					autogenerate: { directory: 'concepts' },
+					autogenerate: { directory: 'guides' },
 					// items: [
 					// 	// Each item here is one entry in the navigation menu.
 					// 	{ label: 'Example Guide', link: '/guides/example/' },
