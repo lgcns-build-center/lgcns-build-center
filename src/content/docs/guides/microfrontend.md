@@ -40,6 +40,10 @@ Micro-Frontend 아키텍처에는 하나 이상의 Micro-Frontend를 호스팅�
 
 ### Micro Frontend 이점
 
+- 더 작고, 더 응집력 있고 유지 관리 가능한 코드베이스
+- 분리되고 자율적인 팀을 갖춘 보다 확장 가능한 조직
+- 이전보다 더 점진적인 방식으로 프런트엔드의 일부를 업그레이드, 업데이트 또는 다시 작성할 수 있는 기능
+
 ### 관련 자료 링크
 
 - https://wire.lgcns.com/confluence/pages/viewpage.action?pageId=826676590
