@@ -41,11 +41,6 @@ export default defineConfig({
 						en: 'Guides',
 					},
 					autogenerate: { directory: 'guides' },
-					// items: [
-					// 	// Each item here is one entry in the navigation menu.
-					// 	{ label: 'Example Guide', link: '/guides/example/' },
-					//
-					// ],
 				},
 				{
 					label: '튜토리얼',
@@ -53,11 +48,6 @@ export default defineConfig({
 						en: 'Tutorial',
 					},
 					autogenerate: { directory: 'tutorial' },
-					// items: [
-					// 	// Each item here is one entry in the navigation menu.
-					// 	{ label: 'Example Guide', link: '/guides/example/' },
-					//
-					// ],
 				},
 				{
 					label: '참고',
