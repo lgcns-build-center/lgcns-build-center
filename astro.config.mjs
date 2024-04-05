@@ -3,6 +3,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site:' https://lgcns-build-center.github.io/',
 	integrations: [
 		starlight({
 			title: 'Frontier',
